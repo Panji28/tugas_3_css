@@ -1,0 +1,19 @@
+.satu{
+    background-color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dua{
+    color: white;
+    background-color: blue;
+}
+
+.tiga{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.empat{
+    background-color: gray;
+    font-weight: bold;
+}
